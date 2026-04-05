@@ -14,3 +14,17 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## ✨ Highlights
+- Role-based UI (Admin / Viewer)
+- Dynamic financial calculations
+- Interactive charts
+- Dark mode support
+- Clean and responsive design
+
+
+## 🌐 Live Demo
+https://finance-dashboard-uv3eu5bby-ms-projects-cddd87d2.vercel.app/
+
+## 📂 GitHub Repo
+https://github.com/muskan-rathor/finance-dashboard
