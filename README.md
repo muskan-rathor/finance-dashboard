@@ -24,7 +24,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 ## 🌐 Live Demo
-https://finance-dashboard-uv3eu5bby-ms-projects-cddd87d2.vercel.app/
+https://finance-dashboard-rho-blue.vercel.app/
 
 ## 📂 GitHub Repo
 https://github.com/muskan-rathor/finance-dashboard
